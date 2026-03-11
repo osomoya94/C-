@@ -1,0 +1,7 @@
+C:\Users\moya_\Desktop\C-\Tp6\Tp6\bin\Debug\Tp6.exe.config
+C:\Users\moya_\Desktop\C-\Tp6\Tp6\bin\Debug\Tp6.exe
+C:\Users\moya_\Desktop\C-\Tp6\Tp6\bin\Debug\Tp6.pdb
+C:\Users\moya_\Desktop\C-\Tp6\Tp6\obj\Debug\p1.csproj.AssemblyReference.cache
+C:\Users\moya_\Desktop\C-\Tp6\Tp6\obj\Debug\p1.csproj.CoreCompileInputs.cache
+C:\Users\moya_\Desktop\C-\Tp6\Tp6\obj\Debug\Tp6.exe
+C:\Users\moya_\Desktop\C-\Tp6\Tp6\obj\Debug\Tp6.pdb

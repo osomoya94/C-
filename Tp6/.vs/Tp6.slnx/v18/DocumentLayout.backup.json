@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moya_\\Desktop\\C-\\Tp6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79C85F6B-82D9-4B6B-A0CB-CEB31772853C}|p2\\p2.csproj|c:\\users\\moya_\\desktop\\c-\\tp6\\p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C85F6B-82D9-4B6B-A0CB-CEB31772853C}|p2\\p2.csproj|solutionrelative:p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C85F6B-82D9-4B6B-A0CB-CEB31772853C}|p2\\p2.csproj|c:\\users\\moya_\\desktop\\c-\\tp6\\p2\\cuadrilatero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79C85F6B-82D9-4B6B-A0CB-CEB31772853C}|p2\\p2.csproj|solutionrelative:p2\\cuadrilatero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1329D75F-1881-4B04-AADE-1D3090D4A2EA}|Tp6\\p1.csproj|c:\\users\\moya_\\desktop\\c-\\tp6\\tp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1329D75F-1881-4B04-AADE-1D3090D4A2EA}|Tp6\\p1.csproj|solutionrelative:tp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1329D75F-1881-4B04-AADE-1D3090D4A2EA}|Tp6\\p1.csproj|C:\\Users\\moya_\\Desktop\\C-\\Tp6\\tp6\\numero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1329D75F-1881-4B04-AADE-1D3090D4A2EA}|Tp6\\p1.csproj|solutionrelative:tp6\\numero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moya_\\Desktop\\C-\\Tp6\\p2\\Program.cs",
+              "RelativeDocumentMoniker": "p2\\Program.cs",
+              "ToolTip": "C:\\Users\\moya_\\Desktop\\C-\\Tp6\\p2\\Program.cs*",
+              "RelativeToolTip": "p2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T04:23:33.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cuadrilatero.cs",
+              "DocumentMoniker": "C:\\Users\\moya_\\Desktop\\C-\\Tp6\\p2\\Cuadrilatero.cs",
+              "RelativeDocumentMoniker": "p2\\Cuadrilatero.cs",
+              "ToolTip": "C:\\Users\\moya_\\Desktop\\C-\\Tp6\\p2\\Cuadrilatero.cs",
+              "RelativeToolTip": "p2\\Cuadrilatero.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T14:26:33.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Numero.cs",
+              "DocumentMoniker": "C:\\Users\\moya_\\Desktop\\C-\\Tp6\\Tp6\\Numero.cs",
+              "RelativeDocumentMoniker": "Tp6\\Numero.cs",
+              "ToolTip": "C:\\Users\\moya_\\Desktop\\C-\\Tp6\\Tp6\\Numero.cs",
+              "RelativeToolTip": "Tp6\\Numero.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T03:33:08.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moya_\\Desktop\\C-\\Tp6\\Tp6\\Program.cs",
+              "RelativeDocumentMoniker": "Tp6\\Program.cs",
+              "ToolTip": "C:\\Users\\moya_\\Desktop\\C-\\Tp6\\Tp6\\Program.cs",
+              "RelativeToolTip": "Tp6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T14:26:38.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\moya_\Desktop\C-\tp4\p3\bin\Debug\p3.exe.config
+C:\Users\moya_\Desktop\C-\tp4\p3\bin\Debug\p3.exe
+C:\Users\moya_\Desktop\C-\tp4\p3\bin\Debug\p3.pdb
+C:\Users\moya_\Desktop\C-\tp4\p3\obj\Debug\p3.csproj.AssemblyReference.cache
+C:\Users\moya_\Desktop\C-\tp4\p3\obj\Debug\p3.csproj.CoreCompileInputs.cache
+C:\Users\moya_\Desktop\C-\tp4\p3\obj\Debug\p3.exe
+C:\Users\moya_\Desktop\C-\tp4\p3\obj\Debug\p3.pdb

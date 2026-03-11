@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moya_\\source\\repos\\tp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05359F2E-F300-4C7B-8CF7-96C66E14E5CD}|tp3\\p4.csproj|c:\\users\\moya_\\source\\repos\\tp3\\tp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05359F2E-F300-4C7B-8CF7-96C66E14E5CD}|tp3\\p4.csproj|solutionrelative:tp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A0B559-BD88-501F-5EDD-4E44ABA912D1}|p2\\p6.csproj|c:\\users\\moya_\\source\\repos\\tp3\\p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A0B559-BD88-501F-5EDD-4E44ABA912D1}|p2\\p6.csproj|solutionrelative:p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moya_\\source\\repos\\tp3\\tp3\\Program.cs",
+              "RelativeDocumentMoniker": "tp3\\Program.cs",
+              "ToolTip": "C:\\Users\\moya_\\source\\repos\\tp3\\tp3\\Program.cs",
+              "RelativeToolTip": "tp3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T21:04:46.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moya_\\source\\repos\\tp3\\p2\\Program.cs",
+              "RelativeDocumentMoniker": "p2\\Program.cs",
+              "ToolTip": "C:\\Users\\moya_\\source\\repos\\tp3\\p2\\Program.cs",
+              "RelativeToolTip": "p2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T20:26:09.188Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
